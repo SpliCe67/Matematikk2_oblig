@@ -4,7 +4,7 @@ Dette er et prosjekt vi lagde fordi vi ville lage øl og skjønte at vi trengte 
 
 ---
 
-##Hva det gjør
+## Hva det gjør
 
 - Regner ut **alkoholprosent (ABV)** med en formel vi fant på internett.
 - Regner ut **bitterhet (IBU)** sånn cirka, basert på humle og koketid og sånt.
